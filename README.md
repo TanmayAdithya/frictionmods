@@ -1,4 +1,4 @@
-# FrictionMods
+# Stone Mods
 
 A collection of browser modifications and tweaks to enhance the browsing experience in Firefox and Zen Browser.
 

@@ -6,7 +6,7 @@
   }
   #unified-extensions-view {
     width: 300px !important;
-    max-height: 40vh !important;
+    max-height: 50vh !important;
     overflow-y: auto !important;
   }
   panelview .unified-extensions-item-action-button {
@@ -21,3 +21,5 @@
     height: 40px !important;
   }
 }
+
+/* Modified version of KiKaragee's code */
